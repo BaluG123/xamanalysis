@@ -11,7 +11,7 @@ import { ScienceandTechnologyComponent } from './scienceand-technology/sciencean
 const routes: Routes = [
   { path: 'history', component: HistoryComponent },
   { path: 'geography', component: GeographyComponent },
-  { path: 'environment', component: EnvironmentComponent },
+  { path: 'environmentandecology', component: EnvironmentComponent },
   { path: 'artandculture', component: ArtandCultureComponent },
   { path: 'polity', component: PolityComponent },
   { path: 'scienceandtechnology', component: ScienceandTechnologyComponent },
